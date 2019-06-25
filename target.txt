@@ -4,4 +4,6 @@
 2.PHP
   -LARAVEL
 3.SQL
-  -MYSQL
+  -PorsqreSQL
+  -NOsQL
+
