@@ -1,0 +1,3 @@
+Menjadi web developer
+bisa json dan ajax jquery
+NODE JS
