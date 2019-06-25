@@ -2,3 +2,4 @@
 -bisa git & github
 -bisa json ,ajax,jquery
 -membuat web dinamis dengan ajax
+-belajar mysql uncover
