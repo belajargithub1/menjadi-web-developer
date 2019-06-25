@@ -1,3 +1,5 @@
 *menjadi web developer adalah resolusi diriku di tahun 2019
 -bisa git & github
 -bisa json ,ajax,jquery
+-bisa NodeJS
+-berubah lebih baik
