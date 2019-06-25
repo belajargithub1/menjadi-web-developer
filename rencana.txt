@@ -1,6 +1,8 @@
 RENCANA SAYA
+0.Javascript
 1.BELAJAR AJAX JQUERY
   + Jquery.ajax()
   + JSON
 2.MYSQLI UNCOVER
 3.Belajar CI + AJAX
+4.Python
