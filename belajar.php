@@ -1,1 +1,3 @@
-tetap semangat
+<?php 
+echo "hello world";
+?>
