@@ -1,0 +1,7 @@
+1.JAVASCRIPT
+  -Jquery
+  -Ajax
+2.PHP
+  -LARAVEL
+3.SQL
+  -PorsqreSQL
