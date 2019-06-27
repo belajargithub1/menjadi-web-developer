@@ -35,22 +35,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Sometimes you want numbered lists:
-
-1. One
-2. Two
-3. Three
-
-Sometimes you want bullet points:
-
-* Start a line with a star
-* Profit!
-
-Alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
-
